@@ -1,0 +1,44 @@
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Domain.Blog\bin\Debug\net8.0\Domain.Blog.deps.json
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Domain.Blog\bin\Debug\net8.0\Domain.Blog.runtimeconfig.json
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Domain.Blog\bin\Debug\net8.0\Domain.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Domain.Blog\bin\Debug\net8.0\Domain.Blog.pdb
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.csproj.AssemblyReference.cache
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.AssemblyInfoInputs.cache
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.AssemblyInfo.cs
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.csproj.CoreCompileInputs.cache
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.sourcelink.json
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\refint\Domain.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.pdb
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.genruntimeconfig.cache
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\ref\Domain.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.csproj.AssemblyReference.cache
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.AssemblyInfoInputs.cache
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.AssemblyInfo.cs
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.csproj.CoreCompileInputs.cache
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.sourcelink.json
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\refint\Domain.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.pdb
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Domain.Blog\bin\Debug\net8.0\Domain.Blog.deps.json
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Domain.Blog\bin\Debug\net8.0\Domain.Blog.runtimeconfig.json
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Domain.Blog\bin\Debug\net8.0\Domain.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Domain.Blog\bin\Debug\net8.0\Domain.Blog.pdb
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.genruntimeconfig.cache
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\ref\Domain.Blog.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Domain.Blog\bin\Debug\net8.0\Domain.Blog.deps.json
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Domain.Blog\bin\Debug\net8.0\Domain.Blog.runtimeconfig.json
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Domain.Blog\bin\Debug\net8.0\Domain.Blog.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Domain.Blog\bin\Debug\net8.0\Domain.Blog.pdb
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.csproj.AssemblyReference.cache
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.AssemblyInfoInputs.cache
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.AssemblyInfo.cs
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.csproj.CoreCompileInputs.cache
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\refint\Domain.Blog.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.pdb
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\Domain.Blog.genruntimeconfig.cache
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Domain.Blog\obj\Debug\net8.0\ref\Domain.Blog.dll

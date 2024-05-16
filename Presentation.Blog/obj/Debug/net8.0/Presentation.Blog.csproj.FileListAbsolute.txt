@@ -1,0 +1,351 @@
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.csproj.AssemblyReference.cache
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.AssemblyInfoInputs.cache
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.AssemblyInfo.cs
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.csproj.CoreCompileInputs.cache
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.sourcelink.json
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\appsettings.json
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Presentation.Blog.exe
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Presentation.Blog.deps.json
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Presentation.Blog.runtimeconfig.json
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Presentation.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Presentation.Blog.pdb
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Humanizer.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Npgsql.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Application.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Domain.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Infrastructure.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Application.Blog.pdb
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Domain.Blog.pdb
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Infrastructure.Blog.pdb
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\staticwebassets\msbuild.Presentation.Blog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\staticwebassets\msbuild.build.Presentation.Blog.props
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.Blog.props
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Presentation.Blog.props
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\scopedcss\bundle\Presentation.Blog.styles.css
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.csproj.CopyComplete
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\refint\Presentation.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.pdb
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.genruntimeconfig.cache
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\ref\Presentation.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.csproj.AssemblyReference.cache
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.AssemblyInfoInputs.cache
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.AssemblyInfo.cs
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.csproj.CoreCompileInputs.cache
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.sourcelink.json
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\refint\Presentation.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.pdb
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\appsettings.json
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Presentation.Blog.exe
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Presentation.Blog.deps.json
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Presentation.Blog.runtimeconfig.json
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Presentation.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Presentation.Blog.pdb
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Humanizer.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Npgsql.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Application.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Domain.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Infrastructure.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Application.Blog.pdb
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Domain.Blog.pdb
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Infrastructure.Blog.pdb
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\staticwebassets\msbuild.Presentation.Blog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\staticwebassets\msbuild.build.Presentation.Blog.props
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.Blog.props
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Presentation.Blog.props
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\scopedcss\bundle\Presentation.Blog.styles.css
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.csproj.CopyComplete
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.genruntimeconfig.cache
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\ref\Presentation.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\NSwag.Annotations.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\appsettings.Development.json
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\appsettings.json
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Presentation.Blog.exe
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Presentation.Blog.deps.json
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Presentation.Blog.runtimeconfig.json
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Presentation.Blog.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Presentation.Blog.pdb
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\AutoMapper.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Humanizer.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Npgsql.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\NSwag.Annotations.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\System.CodeDom.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Application.Blog.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Domain.Blog.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Infrastructure.Blog.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Application.Blog.pdb
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Domain.Blog.pdb
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\bin\Debug\net8.0\Infrastructure.Blog.pdb
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.csproj.AssemblyReference.cache
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.AssemblyInfoInputs.cache
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.AssemblyInfo.cs
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.csproj.CoreCompileInputs.cache
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.MvcApplicationPartsAssemblyInfo.cs
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.MvcApplicationPartsAssemblyInfo.cache
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\staticwebassets.build.json
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\staticwebassets.development.json
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\staticwebassets\msbuild.Presentation.Blog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\staticwebassets\msbuild.build.Presentation.Blog.props
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.Blog.props
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Presentation.Blog.props
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\staticwebassets.pack.json
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\scopedcss\bundle\Presentation.Blog.styles.css
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.csproj.CopyComplete
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\refint\Presentation.Blog.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.pdb
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\Presentation.Blog.genruntimeconfig.cache
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Presentation.Blog\obj\Debug\net8.0\ref\Presentation.Blog.dll

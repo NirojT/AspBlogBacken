@@ -1,0 +1,59 @@
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.csproj.AssemblyReference.cache
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.AssemblyInfoInputs.cache
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.AssemblyInfo.cs
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.csproj.CoreCompileInputs.cache
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.sourcelink.json
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Infrastructure.Blog.deps.json
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Infrastructure.Blog.runtimeconfig.json
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Infrastructure.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Infrastructure.Blog.pdb
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Application.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Domain.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Application.Blog.pdb
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Domain.Blog.pdb
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.csproj.CopyComplete
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\refint\Infrastructure.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.pdb
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.genruntimeconfig.cache
+C:\Users\tmgni\Desktop\CsharpRests\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\ref\Infrastructure.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.csproj.AssemblyReference.cache
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.AssemblyInfoInputs.cache
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.AssemblyInfo.cs
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.csproj.CoreCompileInputs.cache
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.sourcelink.json
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\refint\Infrastructure.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.pdb
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Infrastructure.Blog.deps.json
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Infrastructure.Blog.runtimeconfig.json
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Infrastructure.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Infrastructure.Blog.pdb
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Application.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Domain.Blog.dll
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Application.Blog.pdb
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Domain.Blog.pdb
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.csproj.CopyComplete
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.genruntimeconfig.cache
+C:\Users\tmgni\Desktop\CsharpRests\2nd sem\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\ref\Infrastructure.Blog.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Infrastructure.Blog.deps.json
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Infrastructure.Blog.runtimeconfig.json
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Infrastructure.Blog.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Infrastructure.Blog.pdb
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Application.Blog.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Domain.Blog.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Application.Blog.pdb
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Infrastructure.Blog\bin\Debug\net8.0\Domain.Blog.pdb
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.csproj.AssemblyReference.cache
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.AssemblyInfoInputs.cache
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.AssemblyInfo.cs
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.csproj.CoreCompileInputs.cache
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.csproj.CopyComplete
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\refint\Infrastructure.Blog.dll
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.pdb
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\Infrastructure.Blog.genruntimeconfig.cache
+C:\3rdYear\.net\sem 2\c#fullcode\AspNetCwSem2\Infrastructure.Blog\obj\Debug\net8.0\ref\Infrastructure.Blog.dll
